@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="cool_weather" />
+    <vewsion value="1">
+        <list>
+            <mapping class="com.candyjiang.weatherdemo.db.Province" />
+            <mapping class="com.candyjiang.weatherdemo.db.City" />
+            <mapping class="com.candyjiang.weatherdemo.db.County" />
+        </list>
+    </vewsion>
+</litepal>
